@@ -1,10 +1,10 @@
-# 📱 Nus - Modern News Aggregator App
+# Nus - Modern News Aggregator App
 
 **Nus** is a sleek, modern, offline-first news aggregator mobile application built with **Flutter** and **GetX**. It delivers a high-performance experience with live REST API integration, dynamic multi-level filtering, custom glassmorphic UI components, and instant offline content accessibility.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Offline-First Architecture:** Instant app launch using `GetStorage` and disk image caching.
 - **Dynamic Pagination & Networking:** Smooth infinite scroll loading using the `http` package.
@@ -26,7 +26,7 @@
 
 ---
 
-## 📸 Screenshots & Showcase
+## Screenshots & Showcase
 
 <p align="center">
   <img src="screenshots/home.png" width="30%" alt="Home Screen" />
