@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Dependencies
+## Tech Stack & Dependencies
 
 - **Framework:** Flutter (Dart)
 - **State Management:** GetX
