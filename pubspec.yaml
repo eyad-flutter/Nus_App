@@ -1,0 +1,66 @@
+name: test
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.2
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  get: ^4.7.3
+  get_storage: ^2.1.1
+  http: ^1.6.0
+  intl: ^0.20.3
+  share_plus: ^13.3.0 # For Share Icon
+  url_launcher: ^6.3.0
+  path_provider: ^2.1.2  # For Cache Delete
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^6.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - images/splashScreenOne.jpg
+     - images/splashScreenThree.jpg
+     - images/splashScreenTwo.jpg
+     - images/man.png
+     - images/girl.png
+     - images/boy.png
+     - images/anonymous girl.png
+     - images/anonymous.png
+     - images/woman.png
+     - images/no_image.jpg
+     - images/categories/business.jpg
+     - images/categories/entertainment.jpg
+     - images/categories/politics.jpg
+     - images/categories/science.jpg
+     - images/categories/sports.jpg
+     - images/categories/technology.jpg
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+
